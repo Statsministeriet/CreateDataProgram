@@ -1,0 +1,6 @@
+
+*.class
+pom.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/compiler.xml
